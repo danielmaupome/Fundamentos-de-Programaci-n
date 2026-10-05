@@ -10,8 +10,6 @@ La competencia que se pretende alcanzar es **Conoce y aplica un lenguaje de prog
 
 Para ello, tenemos estos ejemplos diseñados
 
-## 🎯 Objetivos de Aprendizaje
-
 1. **Salida Básica y Caracteres de Escape:** Comprender el funcionamiento de `print()`, el uso de comillas simples/dobles y secuencias de escape como `\n` y `\t`.
 2. **Variables y Tipos de Datos:** Identificar la tipificación dinámica de Python (`int`, `float`, `str`, `bool`), aplicar concatenación o suma según el tipo de dato e inspeccionar tipos con `type()`.
 3. **Entrada de Datos y Conversión de Tipos (*Casting*):** Leer datos desde teclado con `input()` y realizar conversiones explícitas a enteros (`int`) y flotantes (`float`).
