@@ -96,10 +96,10 @@ Para ejecutar cualquiera de estos scripts solo necesitas tener instalado **Pytho
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/tu-usuario/fundamentos-programacion-python.git](https://github.com/tu-usuario/fundamentos-programacion-python.git)
+git clone https://github.com/danielmaupome/Fundamentos-de-Programaci-n.git
 
 # Entrar al directorio del proyecto
-cd fundamentos-programacion-python
+cd Fundamentos-de-Programaci-n
 
 # Ejecutar cualquiera de los ejemplos
 python "U2E1 - Salida en Python.py"
